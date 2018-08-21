@@ -69,3 +69,6 @@ if __name__ == "__main__":
     # simple_dataset_initializer()
     # simple_dataset_batch()
     simple_zip_example()
+
+
+# more examples here: https://github.com/adventuresinML/adventures-in-ml-code/blob/master/r_learning_tensorflow.py
